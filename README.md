@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-- This project is intended for educational purposes to demonstrate front-end development skills using HTML, CSS, and JavaScript. You can use it as a reference or a starting point for your own projects.
+This project is intended for educational purposes to demonstrate front-end development skills using HTML, CSS, and JavaScript. You can use it as a reference or a starting point for your own projects.
 
 ## Contributing
 
