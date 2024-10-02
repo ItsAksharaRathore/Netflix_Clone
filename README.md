@@ -53,7 +53,8 @@ This project is intended for educational purposes to demonstrate front-end devel
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
@@ -65,4 +66,3 @@ Feel free to reach out if you have any questions or feedback:
 
 ---
 
-Thank you for checking out the Netflix Clone project!
